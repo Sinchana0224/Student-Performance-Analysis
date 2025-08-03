@@ -45,12 +45,17 @@ We used the [Students Performance in Exams Dataset](https://www.kaggle.com/datas
 
 Here are some key plots used to support the analysis:
 
-| 📷 Visualization | Description |
-|------------------|-------------|
-| ![Correlation Matrix](images/correlation_matrix.png) | Strong **positive correlation** among Math, Reading, and Writing scores. |
-| ![Math Score Distribution](images/Distribution_of_mathscores.png) | **Math score distribution** shows a slight right skew, peaking around 65–75. |
-| ![Dataset Preview](images/dataset.png) | Cleaned dataset preview after column renaming and preprocessing. |
-| ![Math Scores by Gender](images/maths_scoresbygender.png) | Slight difference in Math scores between **male and female students** shown using a boxplot. |
+Strong **positive correlation** among Math, Reading, and Writing scores.
+[Correlation Matrix](Images/correlation_matrix.png) 
+
+**Math score distribution** shows a slight right skew, peaking around 65–75.
+[Math Score Distribution](Images/Distribution_of_mathscores.png) 
+
+Cleaned dataset preview after column renaming and preprocessing.
+[Dataset Preview](Images/dataset.png)
+
+Slight difference in Math scores between **male and female students** shown using a boxplot.
+[Math Scores by Gender](Images/maths_scoresbygender.png)
 
 
 ---
